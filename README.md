@@ -17,7 +17,7 @@ Simply run the provided Python script:
 ```bash 
 python tic_tac_toe.py
 ```
-
+## Link to Video : https://youtu.be/LUW0980_4ec
 ## How to Play
 
 1. The board is represented as a 3x3 grid, and each cell is labeled with a number from 1 to 9.
