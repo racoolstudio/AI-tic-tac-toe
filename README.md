@@ -2,7 +2,6 @@
 
 A basic implementation of Tic Tac Toe with an AI opponent.
 
-
 ## Code Structure
 
 - `place(letter, location)`: Place 'x' or 'o' on the board.
@@ -13,9 +12,11 @@ A basic implementation of Tic Tac Toe with an AI opponent.
 
 ## How to Run
 
-Simply run the provided Python script.
-'''bash 
+Simply run the provided Python script:
+
+```bash 
 python tic_tac_toe.py
+```
 
 ## How to Play
 
@@ -25,13 +26,7 @@ python tic_tac_toe.py
 
 3. The game continues until there's a winner or the board is full.
 
-
 ## Outcome
 
 - You Win if the player ('x') wins.
 - AI Wins if the AI ('o') wins.
-
-
-
-
-
